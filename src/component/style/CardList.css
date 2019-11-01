@@ -1,0 +1,6 @@
+.wrap-cardsGallery {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 15px;
+  min-width: 300px;
+}
